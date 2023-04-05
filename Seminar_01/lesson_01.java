@@ -10,7 +10,7 @@ public class lesson_01 {
         // int age = sc.nextInt();
         // System.out.println(age);
         // System.out.println(name);
-        // sc.close();
+         sc.close();
         // Дан массив двоичных чисел, например [1, 1, 0, 1, 1, 1],
         // вывести макс. кол-во подряд идущих едениц.
     //     
@@ -34,4 +34,4 @@ public class lesson_01 {
         System.out.print(array[i]);
      }   
      }
-}
+    }
